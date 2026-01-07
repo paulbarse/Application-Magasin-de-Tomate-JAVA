@@ -1,5 +1,7 @@
 # Application Magasin de Tomates (SAE S2.01)
 
+![Logo du magasin](page_accueil.jpg)
+
 Ce projet est une application de gestion de vente de tomates développée en **Java** dans le cadre de la SAE S2.01 (Développement d'une application).
 
 Elle propose une interface graphique réalisée avec **WindowBuilder** (Swing) permettant aux utilisateurs de parcourir un catalogue de tomates, de gérer un panier et de passer commande.
